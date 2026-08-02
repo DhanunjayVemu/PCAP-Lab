@@ -1,3 +1,7 @@
+/*4. Implement an OpenMP program to perform the addition of two one-dimensional arrays of 
+size N using the parallel for directive. Display the resulting array and identify the Thread 
+ID that computes each array element. */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<omp.h>

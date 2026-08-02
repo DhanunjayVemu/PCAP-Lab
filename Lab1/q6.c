@@ -1,3 +1,8 @@
+/*6. Implement an OpenMP program to compute the sum of elements of a large array in parallel 
+using the parallel for directive. Measure and display the execution time of the parallel 
+program using the omp_get_wtime() runtime function and compare it with the 
+corresponding serial implementation. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>

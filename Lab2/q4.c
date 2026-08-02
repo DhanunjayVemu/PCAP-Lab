@@ -1,3 +1,5 @@
+/*4. Implement an OpenMP program to perform matrix-vector multiplication. Record the effect of increasing matrix size on execution time.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>

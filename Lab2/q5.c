@@ -1,3 +1,7 @@
+/*5. Implement an OpenMP program to generate an array of random integers using the single construct.
+ Then use the parallel for directive to compute the square of each element. Display the Thread ID 
+ that generates the array and the Thread IDs processing the elements.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>

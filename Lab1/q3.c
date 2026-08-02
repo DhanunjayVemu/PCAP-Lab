@@ -1,3 +1,7 @@
+/*3. Implement an OpenMP program to initialize all elements of a 5 × 5 matrix with consecutive 
+integers inside a parallel region using the parallel directive. Display the initialized matrix 
+and print the Thread ID responsible for initializing each row. */
+
 #include<stdio.h>
 #include<omp.h>
 

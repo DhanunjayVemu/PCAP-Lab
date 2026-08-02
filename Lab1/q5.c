@@ -1,3 +1,7 @@
+/*5. Implement an OpenMP program to perform the addition of two matrices of size M×N using 
+the parallel for directive. Display the resultant matrix and indicate the Thread ID 
+responsible for computing each row (or element) of the result. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>

@@ -1,3 +1,8 @@
+/*1. Implement an OpenMP program using the parallel for work-sharing construct to perform 
+the addition of two matrices of size M×N. Display the resultant matrix and the Thread ID
+ responsible for computing each row. Compare the execution time of the serial and parallel
+  implementations and comment on the distribution of loop iterations among the threads.*/
+
 #include<stdio.h>
 #include<omp.h>
 #include<stdlib.h>

@@ -1,3 +1,10 @@
+/*3. Implement an OpenMP program to read a matrix of size M × N and produce:
+
+• Matrix B, where all non-border elements are replaced by their 1's complement.
+• Matrix D as specified. [Check the images in Lab 2 NE file]
+
+Display both resulting matrices and indicate the Thread ID responsible for processing each row.*/
+
 #include <stdio.h>
 #include <omp.h>
 #include <math.h>

@@ -1,3 +1,6 @@
+/*6. Implement a parallel program using OpenMP to perform vector addition, subtraction, multiplication. 
+Demonstrate task level parallelism. Analyze the speedup and efficiency of the parallelized code.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>

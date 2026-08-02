@@ -1,3 +1,11 @@
+/*2. Implement an OpenMP program to read a matrix A of size 5 × 5 and produce matrix B according to the specified transformation:
+
+• Principal diagonal = 0
+• Elements below the diagonal = maximum value of the corresponding row in A
+• Elements above the diagonal = minimum value of the corresponding row in A
+
+Display both matrices and indicate the Thread ID responsible for processing each row.*/
+
 #include <stdio.h>
 #include <omp.h>
 
