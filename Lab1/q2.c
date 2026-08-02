@@ -1,3 +1,6 @@
+/*2. Implement an OpenMP program that creates a user-specified number of threads using the 
+omp_set_num_threads() runtime function and displays the Thread ID of each thread.*/
+
 #include<stdio.h>
 #include<omp.h>
 
